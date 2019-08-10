@@ -17,6 +17,7 @@ create a .env.local file in root folder and add varaibles
 get keys from : https://github.com/settings/developers , select project
 REACT_APP_GITHUB_CLIENT_SECRET = 'secret-key';
 REACT_APP_GITHUB_CLIENT_ID = 'client-id';
+- These variables are added in the Heroku ->Project-> settings for production ready deployment 
 
 # Production:
 change the project url to production: (default is localhost://3000)
